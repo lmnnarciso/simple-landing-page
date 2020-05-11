@@ -43,6 +43,11 @@ export default function Hero() {
               My Technology stack are: HTML, CSS, ReactJS, Gatsby, Jest,
               Cypress, NodeJS, Express, Mongo
             </p>
+
+            <ul>
+              <li>Skype: lmnnarciso14@gmail.com</li>
+              <li>Email: lmnnarciso14@gmail.com</li>
+            </ul>
           </Typist>
         </article>
       </section>
